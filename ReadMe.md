@@ -47,4 +47,3 @@ OS X 10.11 or later
 
 
 Copyright (C) 2010-2015 Apple Inc. All rights reserved.
-# MapCalloutsUsingMapKitAnnotations
